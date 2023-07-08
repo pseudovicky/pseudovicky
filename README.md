@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hey Geeks 👋 , I'm Vicky Kumar.
+
+## **A passionate Data Science Enthusiast from India 🇮🇳**
+
+### 📫 How to reach me sudovicky@gmail.com
+
 
 <!--
 **pseudovicky/pseudovicky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
