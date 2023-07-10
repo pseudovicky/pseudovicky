@@ -2,7 +2,7 @@
 
 ## **A passionate Data Science Enthusiast from India 🇮🇳**
 
-## **I’m currently learning Python, MySQL and Machine Learning.**
+## **I’m currently learning Python, MySQL, Machine Learning And Web Development.**
 
 ### 📫 How to reach me sudovicky@gmail.com
 
