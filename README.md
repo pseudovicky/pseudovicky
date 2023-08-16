@@ -2,7 +2,7 @@
 
 ## **A passionate Data Science Enthusiast from India 🇮🇳**
 
-## **I’m currently learning Python, JavaScript and Front-End Development.**
+## **I’m currently learning Python, JavaScript ,HTML, CSS.**
 
 ### 📫 How to reach me sudovicky@gmail.com
 <!--
