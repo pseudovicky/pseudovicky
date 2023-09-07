@@ -1,8 +1,8 @@
 # Hey Geeks 👋 , I'm Vicky Kumar.
 
-## **A passionate Data Science Enthusiast from India 🇮🇳**
+### **A passionate Data Science Enthusiast from India 🇮🇳**
 
-## **I’m currently learning Python, HTML, CSS & JavaScript.**
+### **I’m currently learning Python, HTML, CSS & JavaScript.**
 
 ### 📫 How to reach me sudovicky@gmail.com
 
