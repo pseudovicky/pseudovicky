@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **sudovicky@gmail.com | gitviki@icloud.com**
 
-- 📫 How to reach me ****
 <p>🌱 hello</p>
 
 
