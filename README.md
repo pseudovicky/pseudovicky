@@ -1,3 +1,4 @@
+
 <h1 align="center" >Hey Geeks 👋 , I'm Vicky .</h1>
 <h3 align="center" >A passionate Data Science Enthusiast from India 🇮🇳.</h3>
 
@@ -17,7 +18,7 @@
 <a href="https://www.linkedin.com/in/pseudovicky/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shivani vadlamani @shivanivadlamani2000" height="30" width="40" /></a>
 </p>
 
-_<p align="end" font-family="monolog" color=coral; > 🌱 Inspired by sprituality and Hindu dharma granth's ... :')</p>_
+_<p align="end" `rgb(67,76,95)` > 🌱 Inspired by sprituality and Hindu dharma granth's ... :')</p>_
 
 
 <!--
