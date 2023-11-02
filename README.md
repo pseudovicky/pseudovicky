@@ -1,4 +1,4 @@
-<h1 align="center" >Hey Geeks 👋 , I'm Vicky Kumar.</h1>
+<h1 align="center" >Hey <Geeks/> 👋 , I'm Vicky Kumar.</h1>
 <h3 align="center" >A passionate Data Science Enthusiast from India 🇮🇳.</h3>
 
 
