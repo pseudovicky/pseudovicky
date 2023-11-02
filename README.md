@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Full Stack Web Development.**
   
-- 🌱 I’m currently learning **Data science**
+- 🌱 I’m currently learning **Data science.**
   
 - 💬 Ask me about **Python , python libraries, FrontEnd .**
 
