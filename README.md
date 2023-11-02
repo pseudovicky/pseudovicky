@@ -1,7 +1,16 @@
 <h1 align="center" >Hey <Geeks/> 👋 , I'm Vicky Kumar.</h1>
 <h3 align="center" >A passionate Data Science Enthusiast from India 🇮🇳.</h3>
 
+- 🔭 I’m currently working on **Full Stack Web Development.**
+  
+- 🌱 I’m currently learning **Data science**
+  
+- 💬 Ask me about **Python , python libraries, FrontEnd .**
 
+- 📫 How to reach me **sudovicky@gmail.com**
+
+- - 📫 How to reach me **gitviki@icloud.com**
+<p>🌱 hello</p>
 
 
 <!--
