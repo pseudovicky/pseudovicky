@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/pseudovicky/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shivani vadlamani @shivanivadlamani2000" height="30" width="40" /></a>
 </p>
 
-<p align="end" font-family="monolog" color:coral; > 🌱 Inspired by sprituality and Hindu dharma granth's ... :')</p>
+<p align="end" font-family="monolog" color=coral; > _🌱 Inspired by sprituality and Hindu dharma granth's ... :_')</p>
 
 
 <!--
