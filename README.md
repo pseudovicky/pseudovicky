@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sudovicky@gmail.com**
 
-- - 📫 How to reach me **gitviki@icloud.com**
+- 📫 How to reach me **gitviki@icloud.com**
 <p>🌱 hello</p>
 
 
