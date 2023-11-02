@@ -7,9 +7,9 @@
   
 - 💬 Ask me about **Python , python libraries, FrontEnd .**
 
-- 📫 How to reach me **sudovicky@gmail.com**
+- 📫 How to reach me **sudovicky@gmail.com | gitviki@icloud.com**
 
-- 📫 How to reach me **gitviki@icloud.com**
+- 📫 How to reach me ****
 <p>🌱 hello</p>
 
 
