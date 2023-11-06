@@ -18,10 +18,9 @@
 <a href="https://www.linkedin.com/in/pseudovicky/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shivani vadlamani @shivanivadlamani2000" height="30" width="40" /></a>
 </p>
 
-_<p align="end" font-family:monologue > 🌱 Inspired by Spirituality and Hindu dharma granth's ... :')</p>_
-
 
 <!--
+_<p align="end" font-family:monologue > 🌱 Inspired by Spirituality and Hindu dharma granth's ... :')</p>_
 <h1> hello</h1>h1>
 ### **A passionate Data Science Enthusiast from India 🇮🇳**   
 
