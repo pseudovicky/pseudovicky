@@ -21,7 +21,6 @@
 _<p align="end" font-family:monologue > 🌱 Inspired by Spirituality and Hindu dharma granth's ... :')</p>_
 <h1> hello</h1>h1>
 ### **A passionate Data Science Enthusiast from India 🇮🇳**   
-
 ### **I’m currently learning Python, HTML, CSS & JavaScript.**
 ### 📫 How to reach me sudovicky@gmail.com
 
