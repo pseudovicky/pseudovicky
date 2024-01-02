@@ -8,7 +8,7 @@
 
 • Databases: MySQL
 
-• Programming: Python, C++ , JavaScript , HTML5 , CSS3 ,
+• Programming: Python, C++ , JavaScript , HTML5 , CSS3 , Bootstrap,
 
 • Tools: Numpy, pandas, PowerBI
 
