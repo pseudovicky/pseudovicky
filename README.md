@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sens-serif&size=40&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Vicky+Kumar;FullStack+Developer;JavaScript+Developer;Python+Developer;DataScience+enthusiast;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sens-serif&size=40&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Vicky+Kumar;Python+Developer;DataScience+Enthusiast;)](https://git.io/typing-svg)
 
 ### Hi there 👋
 
@@ -8,7 +8,7 @@
 
 • Databases: MySQL
 
-• Programming: Python, C++ , JavaScript , HTML5 , CSS3 , Bootstrap,
+• Programming: Python, C++ , JavaScript , HTML5 , CSS3 , Bootstrap, Node Js
 
 • Tools: Numpy, pandas, PowerBI
 
