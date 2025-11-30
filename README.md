@@ -1,20 +1,38 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sens-serif&size=40&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Vicky+Kumar;Python+Developer;DataScience+Enthusiast;)](https://git.io/typing-svg)
+[<img src="https://awesome-svg.vercel.app/card/card_2?name=VICKY%20KUMAR&summary=Software%20Engineer&style=nameColor:rgba(17,133,228,1);summaryColor:rgba(255,21,93,1);backgroundColor:rgba(255,255,255,1);" />](https://vickykumar.me)
 
-### Hi there 👋
+<strong>I am a Software Engineer with expertise in Python, C++, JavaScript, and Web Development.</strong>
 
-🔭 I'm a Full Stack Web Developer and Data Science enthusiast .
+- 👨🏽‍💻 Currently, I am focused on Data Science and Full Stack Web Development.
+- 😊 Willing to contribute in opensource development projects.
+- 👨 Know more about me, - 🌐 Visit my [Portfolio website](https://vickykumar.me/) for complete background and contact.
 
-#### Skills: 
+### 🤝 <b>To connect with me</b>
 
-• Databases: MySQL
+<p align = "center">
 
-• Programming: Python, C++ , JavaScript , HTML5 , CSS3 , Bootstrap, Node Js
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://vickykumar.me/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pseudovicky/)
+[<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sudovicky@gmail.com)
 
-• Tools: Numpy, pandas, PowerBI
+</p>
 
-📫 Reach me on: 
+### Skills
 
-<a target="_blank" href="https://www.linkedin.com/in/pseudovicky/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:sudovicky@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<br>
-</p> 
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" /></a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="36" height="36" alt="Numpy" /></a>
+</p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+[<img src="https://github-readme-stats.vercel.app/api?username=pseudovicky&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="pseudovicky's GitHub stats" />](https://www.github.com/pseudovicky)
