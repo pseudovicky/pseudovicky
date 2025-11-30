@@ -35,4 +35,16 @@
 
 <b>My GitHub Stats</b>
 
-[<img src="https://github-readme-stats.vercel.app/api?username=pseudovicky&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="pseudovicky's GitHub stats" />](https://www.github.com/pseudovicky)
+<p align="center">
+<a href="https://github.com/pseudovicky">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pseudovicky&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="pseudovicky's GitHub stats" />
+</a>
+<a href="https://github.com/pseudovicky">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pseudovicky&layout=compact&title_color=22c55e&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true" alt="pseudovicky's Top Languages" />
+</a>
+</p>
+<p align="center">
+<a href="https://github.com/pseudovicky">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pseudovicky&theme=dark&hide_border=true" alt="pseudovicky's Streak" />
+</a>
+</p>
